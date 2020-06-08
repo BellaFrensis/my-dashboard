@@ -97,7 +97,7 @@ app.layout = html.Div([
         html.Div(
         [   
             dcc.Markdown('''
-                # Analisi Covid 19
+                # Analisi Covid 19 nuovo update
                 Andremo a eseguire un esercizio sul dataset covid.
                 
                 ## Esercizio n.1 
